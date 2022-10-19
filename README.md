@@ -1,6 +1,6 @@
 ## About me:
 🎓 Information Systems undergraduate<br>
-🌱 Currently learning Back-end Development using C#/.NET<br>
+🌱 Currently learning Back-end development using C#/.NET<br>
 📫 How to reach me: matheusbarbosa.git@gmail.com
 
 ## Socials:
