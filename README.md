@@ -1,7 +1,8 @@
 ## About me:
-🎓 Information Systems undergraduate<br>
-🌱 Currently learning Back-end development using C#/.NET<br>
-📫 How to reach me: matheusbarbosasilva.br@gmail.com
+- Age: 24<br>
+- Living in: Viana - ES, Brazil<br>
+- Currently learning Back-end development using C#/.NET<br>
+- How to reach me: matheusbarbosasilva.br@gmail.com
 
 ## Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/Navorski#5415) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matheus-barbosa-64a553222) 
